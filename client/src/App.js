@@ -4,7 +4,7 @@ import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Category from "./components/Category.";
 import Footer from "./components/Footer";
-import SousFoter from "./data/SousFoter";
+import SousFoter from "./components/SousFoter";
 
 function App() {
   return (
